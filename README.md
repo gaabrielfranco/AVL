@@ -4,6 +4,7 @@ Implemented with [marcosvcloures] for data structures work
 
 ### Run
 ```sh
+    cd avl
     make
     ./avl
 ```
